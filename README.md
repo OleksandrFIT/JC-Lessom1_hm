@@ -1,2 +1,2 @@
-# JC-Lessom1_hm
+# JC-Lesson1_hm
 jvm, varibles, arrays, wrapeprs
